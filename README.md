@@ -5,7 +5,7 @@ Welcome to the **Advanced Machine Learning 2026/2027** project repository for **
 In this project, we step into the shoes of data scientists to analyze longitudinal clinical data from patients recovering from lower-limb musculoskeletal injuries. We aren't just looking at the data—we are building probabilistic models, uncovering hidden patterns, and even training an AI agent to suggest the best rehabilitation interventions!
 
 ## 👥 Meet The Team (Group 14)
-* **David Belykh** 
+* **David Belykh**
 * **Matilde Quitério**
 * **Ramyad Raadi**
 
